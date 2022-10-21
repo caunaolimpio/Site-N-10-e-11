@@ -1,0 +1,13 @@
+body{
+background: rgb(808,00,000);
+}
+
+strong {
+    color: rgb(000,0,00);
+}
+
+p {
+	 font-size: 25px;
+	 text-align: center;
+	 color: rgb(0, 0, 250);
+}
